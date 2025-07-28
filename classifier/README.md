@@ -1,4 +1,4 @@
-# ML_Descision_tree_regressor_classifier_
+# ML_Descision_tree_classifier_
 Objective
 Build a Decision Tree Classifier to predict heart disease using patient medical data, focusing on reducing overfitting and improving test accuracy.
 
